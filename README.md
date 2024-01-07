@@ -85,20 +85,21 @@ public class Usuario {
 # Saída do Código
 A seguir está a saída do código, passo a passo, conforme o usuário interage com a Smart TV:
 
-TV ligada? false
-Novo Status: TV ligada? true
-Em qual volume? 25
-Diminuindo volume para: 24
-Diminuindo volume para: 23
-Diminuindo volume para: 22
-Aumentando volume para: 23
-Volume Atual: 23
-TV ligada? true
-Qual o canal? 1
-Status Canal: 13
-Em qual volume? 23
-Status: TV ligada? true
+TV ligada? false  
+Novo Status: TV ligada? true  
+Em qual volume? 25  
+Diminuindo volume para: 24  
+Diminuindo volume para: 23  
+Diminuindo volume para: 22  
+Aumentando volume para: 23  
+Volume Atual: 23  
+TV ligada? true  
+Qual o canal? 1  
+Status Canal: 13  
+Em qual volume? 23  
+Status: TV ligada? true  
 Novo Status: TV ligada? false
+
 
 
 ## Este projeto visa proporcionar uma experiência interativa e prática para entender como as classes SmarTv e Usuario interagem no contexto de um sistema de controle de Smart TV. Sinta-se à vontade para explorar e ajustar o código conforme necessário para aprimorar suas habilidades de programação em Java.
